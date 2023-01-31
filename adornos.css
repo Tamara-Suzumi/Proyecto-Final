@@ -1,0 +1,58 @@
+
+body {
+  margin: 30px;
+  border: 5px solid #DDA0DD;
+  outline: 50px solid #DDA0DD;
+  outline-offset: 15px;
+}
+
+body {
+    background-color: #FFE4E1;
+    text-align: center;
+  }
+
+  h1 {
+    color: #8B008B;
+    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    font-style: normal
+  }
+
+  h1 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: #DDA0DD;
+    text-shadow: 0px 0px 20px #DB7093;
+  }
+  
+  p {
+    color: #663399;
+    font-family: "Audiowide", sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+  }
+
+  h2, h3 {
+    color: #DB7093;
+    font-size: 25px;
+    text-decoration-line: underline;
+    text-decoration-thickness: auto;
+    font-family: 'Playfair Display', serif;
+    font-style: 
+  }
+
+/* Tal ves deberia haberle puesto otro marco al nombre */
+  fieldset {
+    border: 10px dashed #DB7093;
+    border-radius: 10px;
+    width: 40%;
+    margin: 0 auto;
+  }
+
+  .fa-sharp, .fa-solid {
+    font-size: 50px; 
+    color:lightblue;
+  }
+
+  
+
